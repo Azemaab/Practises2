@@ -1,5 +1,3 @@
-package Tasks1to5.Practises6to10.Tasks11to15;
-
 import java.util.*;
 
 public class Task21 {

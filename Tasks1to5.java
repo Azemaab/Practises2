@@ -1,5 +1,3 @@
-package Tasks1to5;
-
 import java.util.*;
 
 public class Tasks1to5 {
